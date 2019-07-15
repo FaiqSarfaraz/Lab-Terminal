@@ -31,6 +31,12 @@ public class CalculatorTest {
 		assertEquals(10,c.equals(30));
 	}
 	
+public void test4() {
+		
+		Calculator c=new Calculator();
+		assertEquals(30,c.findMax(10, 20, 30));
+	}
+	
 }
 
 
