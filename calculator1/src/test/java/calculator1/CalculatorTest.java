@@ -31,5 +31,6 @@ public class CalculatorTest {
 		assertEquals(10,c.equals(30));
 	}
 	
-
 }
+
+

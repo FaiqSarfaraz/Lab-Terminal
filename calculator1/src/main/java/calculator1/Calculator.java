@@ -26,6 +26,7 @@ public class Calculator {
 			int res=a*a*a;
 			return res;
 		}
+		public void cube1(){}
 		}
 
 
